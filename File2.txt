@@ -2,3 +2,4 @@ Goodbye!
 Расширение .txt
 Команда git commit -a -m "Изменил File2.txt"
 Команда git commit --amend -m "Внёс изменения в последний коммит"
+Line from User2
