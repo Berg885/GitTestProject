@@ -3,3 +3,4 @@ Goodbye!
 Команда git commit -a -m "Изменил File2.txt"
 Команда git commit --amend -m "Внёс изменения в последний коммит"
 Line from User2
+Another line from User2
