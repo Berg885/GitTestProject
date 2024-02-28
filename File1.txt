@@ -2,5 +2,5 @@ Hello world!!!
 Изменил расширение
 Кодировка UTF-8
 Опубликовал репозиторий GitTheCompleteCourse
-another line from User1
+line from User2
 Line from User1
