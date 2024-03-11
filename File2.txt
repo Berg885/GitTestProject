@@ -4,3 +4,4 @@ Goodbye!
 Команда git commit --amend -m "Внёс изменения в последний коммит"
 Line from User2
 Another line from User2
+Line from User2 -lesson about rebase
